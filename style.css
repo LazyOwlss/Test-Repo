@@ -3,3 +3,12 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+body {
+  font-family: "poppins", Helvetica, serif;
+  background-color: #c26666;
+}
+
+header {
+  text-align: center;
+}
