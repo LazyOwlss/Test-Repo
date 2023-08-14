@@ -12,3 +12,9 @@ body {
 header {
   text-align: center;
 }
+
+main p {
+  width: min(200px, 80%);
+  text-align: center;
+  margin-inline: auto;
+}
